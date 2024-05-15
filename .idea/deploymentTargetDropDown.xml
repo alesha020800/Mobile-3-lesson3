@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivity">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\alesh\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-15T07:58:53.535461600Z" />
+        </State>
+      </entry>
+      <entry key="MainActivity (2)">
+        <State />
+      </entry>
+      <entry key="MainActivity (3)">
+        <State />
+      </entry>
+      <entry key="MainActivity (4)">
+        <State />
+      </entry>
+      <entry key="SecondActivity">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="favoritebook">
+        <State />
+      </entry>
+      <entry key="intentapp">
+        <State />
+      </entry>
+      <entry key="mireaproject">
+        <State />
+      </entry>
+      <entry key="sharer">
+        <State />
+      </entry>
+      <entry key="simplefragmentapp">
+        <State />
+      </entry>
+      <entry key="systemintentsapp">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
